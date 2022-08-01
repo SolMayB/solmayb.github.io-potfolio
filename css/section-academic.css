@@ -1,0 +1,37 @@
+.academic{
+    background: #f0e4e6;
+}
+.academic__courses{
+    flex-wrap: wrap;
+    gap: 16px;
+    display: grid;
+    grid-template-columns: 40% 40%;
+    margin-left: 15%;
+    margin-top: 1.5rem;
+    
+}
+
+.academic__title{
+    text-align: center;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 5px #ff4996;
+    padding: 15px;
+
+}
+.academic__courses__box{
+    align-items: center;
+    margin-left: 5rem;
+    
+}
+.img__courses{
+    width: 80%;
+    height: 50%;
+}
+.img__courses2{
+    width: 72%;
+    height: 50%;
+}
+
+.academic__courses__item__title{
+    font-family: 'Cormorant SC', serif;
+}

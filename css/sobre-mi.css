@@ -1,0 +1,22 @@
+
+
+.about__title{
+    color: azure;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2rem;
+    margin: 1.5rem;
+}
+
+.about__paragraph{
+    color: azure;
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.firma{
+    color: azure;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    text-align: right;
+}

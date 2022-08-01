@@ -1,0 +1,26 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu__list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 250px;
+}
+
+.menu__list__item{
+    font-family: 'Acme', sans-serif;
+    padding: 1rem;
+}
+.menu__list__item:hover{
+    border-bottom: 2px solid #ff4996;
+    transition: .5
+}
+.menu__title{
+    margin-left: 2rem;
+    
+ 
+ }
